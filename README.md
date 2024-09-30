@@ -29,7 +29,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/YOUR-USERNAME/Number-Guessing-Game.git
+git clone https://github.com/ei91/Number-Guessing-Game.git
 Navigate into the project directory:
 
 bash
