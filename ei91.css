@@ -1,0 +1,50 @@
+h1{
+    color:darkslateblue;
+    font-size: medium;
+    
+}
+
+#content{
+    display: flex;
+    justify-content: space-around;
+}
+body{
+    color:lightsteelblue;
+}
+div
+{
+text-align: center;
+font-size: 1.5rem;
+background-color: beige;
+width: 200px;
+padding: 30px;
+margin: 30px;
+border: 20px solid wheat;
+}
+#startButton{
+    background-color: blueviolet;
+}
+
+#container{
+    text-align: center;
+    max-width: 600;
+    margin: auto;
+}
+#instruction{
+    font-size: 1.2rem;
+}
+
+#guesslist{
+    text-align: center;
+    max-width: 600;
+    margin : 20px
+}
+#maincontent{
+    text-align: left;
+    width: 60%;
+    padding: 20px;
+}
+#divider{
+    border-left:2px solid white;
+    height :100%
+}
