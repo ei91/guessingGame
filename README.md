@@ -6,10 +6,7 @@ Range Selection: Players can choose a number range (1-10, 1-100, or 1-1000) by c
 Dynamic Game Start: The "Start" button is enabled once a range is selected.
 Number Input: After clicking "Start," the user is redirected to another page to guess a number.
 Responsive Design: The game uses simple CSS to create a visually clean layout.
-Event Handling: JavaScript handles user interactions (selecting a range and starting the game).
-
-Demo
-Play the game live at GitHub Pages
+Event Handling: JavaScript handles user interactions (selecting a range and starting the game.
 
 How to Play
 Select a Range: Choose a number range (1-10, 1-100, or 1-1000) by selecting one of the radio buttons.
